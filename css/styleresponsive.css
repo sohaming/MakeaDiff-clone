@@ -1,0 +1,2344 @@
+@media only screen and (max-width:1600px),
+only screen and (max-device-width:1920px) {
+  .solutions-section {
+    padding: 40px 0 145px
+  }
+
+  .video-play-button {
+    left: 50.8%
+  }
+}
+
+@media only screen and (max-width:1779px),
+only screen and (max-device-width:1779px) {
+  .solutions-section {
+    padding: 40px 0 145px
+  }
+
+  .video-play-button {
+    left: 50.8%
+  }
+}
+
+@media only screen and (max-width:1499px),
+only screen and (max-device-width:1499px) {
+  .financials-section {
+    padding: 100px 0 40px 0
+  }
+
+  .spend-list {
+    padding: 30px 0 30px
+  }
+
+  .spend-list .item .cercle {
+    height: 150px;
+    width: 150px
+  }
+
+  p.registration {
+    font-weight: 500
+  }
+
+  .financials-col.pull-right {
+    width: 38%;
+    height: 475px;
+    position: relative
+  }
+
+  .spend-list .item span {
+    font-size: 22px
+  }
+
+  .footer {
+    padding: 70px 0 0
+  }
+
+  .social-icon ul li {
+    margin: 0 10px
+  }
+}
+
+@media only screen and (min-width:1440) {
+  .wrapper {
+    max-width: 100%;
+    width: 100%
+  }
+}
+
+@media screen and (min-width:1200px) and (max-width:1440px) {
+  .stepper-content {
+    min-height: 160px
+  }
+}
+
+@media only screen and (min-width:769px) and (max-width:1281px) {
+
+  .section h2,
+  .slider .swiper-container .swiper-slide .inner h2 {
+    font-size: 40px;
+    line-height: 56px
+  }
+}
+
+@media only screen and (max-width:1280px) {
+  .timeline__content {
+    margin-left: 50px
+  }
+
+  .the-campaign-cncp-box,
+  .the-campaign-cncp-financial .the-campaign-cncp-box {
+    min-height: 460px
+  }
+
+  .cta-right .btn-group {
+    margin-top: 20px
+  }
+
+  .regulatory_landscape_sub_heading_text {
+    margin-top: 20px
+  }
+
+  .page-cncp .slider .swiper-container {
+    position: relative
+  }
+
+  .page-cncp .slider {
+    height: auto
+  }
+}
+
+@media only screen and (max-width:1200px) {
+  .card.card-title-footer-overlapped {
+    margin-bottom: 70px
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:1199px) {
+  .section h2 {
+    margin-bottom: 24px
+  }
+
+  .card.card-title-footer-overlapped h3 {
+    font-size: 1.5rem
+  }
+
+  .btn-yellow {
+    font-size: 20px
+  }
+
+  .roles-at-mad-section h3 {
+    font-size: 1.5rem
+  }
+
+  .roles-at-mad-section h4 {
+    font-size: 1.25rem
+  }
+}
+
+@media only screen and (max-width:1199px),
+only screen and (max-device-width:1199px) {
+  .header {
+    padding: 15px 60px
+  }
+
+  .slider .swiper-container .swiper-slide .inner {
+    padding: 0 60px
+  }
+
+  .slider .swiper-container .swiper-slide .inner h2 {
+    font-size: 50px
+  }
+
+  .slider .swiper-container .swiper-pagination-fraction {
+    left: 60px
+  }
+
+  .wrapper {
+    padding: 0 60px
+  }
+
+  section h2 {
+    font-size: 30px
+  }
+
+  .about-text {
+    padding: 50px 0
+  }
+
+  .about-text p {
+    font-size: 18px;
+    line-height: 33px
+  }
+
+  .content-box .detail {
+    padding: 35px 30px 0
+  }
+
+  .content-box h3 {
+    font-size: 20px
+  }
+
+  .spend-list {
+    padding: 20px 0 0
+  }
+
+  .spend-list .item .cercle {
+    height: 100px;
+    width: 100px
+  }
+
+  .spend-list .item span {
+    font-size: 16px
+  }
+
+  .financials-col>p {
+    font-size: 14px;
+    line-height: 22px
+  }
+
+  .financials-col>p strong {
+    font-size: 22px;
+    line-height: 22px
+  }
+
+  .financials-col>p span {
+    font-size: 22px
+  }
+
+  .slick-arrow {
+    bottom: -30px
+  }
+
+  .footer {
+    padding: 100px 0 0
+  }
+
+  .footer-part p {
+    font-size: 14px;
+    line-height: 22px
+  }
+}
+
+@media screen and (min-width:1024px) and (max-width:1199px) {
+  .stepper-title {
+    font-size: 30px
+  }
+
+  .stepper-content {
+    min-height: 190px
+  }
+
+  .volunteer_page .counts-inline {
+    right: 0
+  }
+
+  .volunteer_page .counts {
+    right: 0
+  }
+
+  .team-img-box.slick-slide:not(.slick-current) .team-inner .image-box,
+  .team-img-box.slick-slide:not(.slick-current) .team-inner .slider-caption {
+    width: 150px;
+    height: 150px
+  }
+
+  .team-img-box.slick-slide .team-inner .image-box {
+    height: 150px;
+    width: 150px
+  }
+}
+
+@media only screen and (max-width:1199px) {
+  .roles-at-mad-section .min-title-height {
+    min-height: unset
+  }
+
+  .team-img-box.slick-slide {
+    padding-left: 0
+  }
+
+  .slider-new-right-team {
+    margin-left: 0
+  }
+
+  .team-img-box.slick-slide .desc {
+    font-size: 16px
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .video-play-button {
+    left: 51.5%
+  }
+
+  .the-campaign-cncp-box-content h1 {
+    font-size: 16px
+  }
+
+  .the-campaign-cncp-box-content h3 {
+    min-height: 40px
+  }
+
+  .the-campaign-cncp-box-content p {
+    min-height: 105px
+  }
+
+  .the-campaign-cncp-financial .spend-list {
+    min-height: 160px
+  }
+
+  .form-group.rupees_amount {
+    margin: 0 auto;
+    width: 64%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 525px
+  }
+
+  .first-last-box {
+    width: 285px
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs {
+    width: 26%
+  }
+
+  .nav-tabs {
+    width: 35%
+  }
+
+  ul.nav.nav-tabs.nav-tabs_sub_tab_menu {
+    width: 88%
+  }
+
+  ul.nav.nav-tabs.nav-tabs_sub_tab_menu li {
+    width: auto;
+    padding: 0 5px
+  }
+
+  .tab_sub_box img {
+    width: 220px;
+    height: auto
+  }
+
+  .tab_sub_box_content {
+    width: 220px;
+    height: 60px
+  }
+
+  .tab_sub_box_content h3 {
+    margin: 10px 10px 0 10px;
+    font-size: 13px
+  }
+
+  .testimoniol .container {
+    width: 960px
+  }
+
+  .selectbox {
+    right: 7.5%
+  }
+
+  section#Profiles {
+    margin-top: 80px
+  }
+
+  .title-block p {
+    width: 58%;
+    margin: 0 auto 20px;
+    font-size: 16.5px;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: Gotham;
+    font-style: normal
+  }
+
+  .profile-carousel .slick-next::before {
+    position: initial
+  }
+
+  .we_made_section h1 {
+    margin-top: 60px;
+    margin-bottom: 20px
+  }
+
+  .we_made_section .paragraph {
+    width: 65%
+  }
+
+  .nav-tabs {
+    width: 43%
+  }
+
+  .tab_sub_box img,
+  .tab_sub_box_content {
+    width: 250px
+  }
+
+  .tab_sub_box {
+    width: 33.33%
+  }
+
+  .tab_sub_box {
+    margin-bottom: 0
+  }
+
+  .testimoniol .container {
+    width: 768px
+  }
+
+  .we_made_mad {
+    height: 500px
+  }
+
+  .we_made_mad h1 {
+    padding-top: 230px
+  }
+
+  .sub_box {
+    width: 364px
+  }
+
+  .the-campaign-cncp-box {
+    min-height: 445px !important
+  }
+
+  .the-campaign-cncp-box-content p {
+    min-height: 145px
+  }
+
+  .the-campaign-cncp-box-content p {
+    font-size: 14px
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .stepper-item {
+    max-width: 30%
+  }
+
+  .stepper-title {
+    font-size: 28px
+  }
+
+  .stepper-content {
+    min-height: 220px
+  }
+}
+
+@media (min-width:992px) {
+
+  .achivement_timeline-centered,
+  .achivement_timeline-centered .achivement_timeline-content,
+  .achivement_timeline-centered .achivement_timeline-info,
+  .achivement_timeline-centered .achivement_timeline-item,
+  .achivement_timeline-centered .achivement_timeline-marker {
+    display: block;
+    margin: 0;
+    padding: 0
+  }
+
+  .achivement_timeline-centered .achivement_timeline-item {
+    padding-bottom: 25px;
+    overflow: hidden
+  }
+
+  .achivement_timeline-centered .achivement_timeline-marker {
+    position: absolute;
+    left: 50%;
+    margin-left: -7.5px
+  }
+
+  .achivement_timeline-centered .achivement_timeline-content,
+  .achivement_timeline-centered .achivement_timeline-info {
+    width: 50%
+  }
+
+  .achivement_timeline-centered>.achivement_timeline-item:nth-child(odd) .achivement_timeline-info {
+    float: left;
+    text-align: right;
+    padding-right: 30px
+  }
+
+  .achivement_timeline-centered>.achivement_timeline-item:nth-child(odd) .achivement_timeline-content {
+    float: right;
+    text-align: left;
+    padding-left: 30px
+  }
+
+  .achivement_timeline-centered>.achivement_timeline-item:nth-child(even) .achivement_timeline-info {
+    float: right;
+    text-align: left;
+    padding-left: 30px
+  }
+
+  .achivement_timeline-centered>.achivement_timeline-item:nth-child(even) .achivement_timeline-content {
+    float: left;
+    text-align: right;
+    padding-right: 30px
+  }
+
+  .achivement_timeline-centered>.achivement_timeline-item.period .achivement_timeline-content {
+    float: none;
+    padding: 0;
+    width: 100%;
+    text-align: center
+  }
+
+  .achivement_timeline-centered .achivement_timeline-item.period {
+    padding: 50px 0 90px
+  }
+
+  .achivement_timeline-centered .period .achivement_timeline-marker:after {
+    height: 30px;
+    bottom: 0;
+    top: auto
+  }
+
+  .achivement_timeline-centered .period .achivement_timeline-title {
+    left: auto
+  }
+}
+
+@media only screen and (max-width:991px),
+only screen and (max-device-width:991px) {
+  .video-controls {
+    width: 100%;
+    left: 0;
+    bottom: 5.5%
+  }
+
+  #impact {
+    display: none
+  }
+
+  .the-campaign-cncp-box {
+    float: none;
+    width: 100%
+  }
+
+  .the-campaign-cncp-box-content {
+    margin: 0;
+    padding: 60px 0
+  }
+
+  .the-campaign-cncp-box-content p {
+    min-height: 50px
+  }
+
+  .the-team .the-team-content .the-team-box h1 {
+    font-size: 70px;
+    font-weight: 600;
+    color: #fff
+  }
+
+  .the-team .the-team-content .the-team-box:hover h1 {
+    color: #333132
+  }
+
+  .the-team .the-team-box p {
+    margin: 20px 0 30px 0
+  }
+
+  .row.coi-images div {
+    margin-top: 10px
+  }
+
+  .dxc_content p {
+    font-size: 14px
+  }
+
+  img.dxc-logo {
+    padding: 8px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px
+  }
+
+  .lightbox {
+    position: fixed;
+    padding: 35px 20px;
+    z-index: 7;
+    width: 90%;
+    height: 170px;
+    text-align: center;
+    top: 30%;
+    left: 5%;
+    background: #333132;
+    display: none
+  }
+
+  .share {
+    margin-top: 20px
+  }
+
+  .filp-wrap-last-video .share {
+    margin-top: 0
+  }
+
+  #desktop-flip {
+    background: #ed1849;
+    text-align: center;
+    border-right: solid #ed1849 4px;
+    font-size: 12px;
+    border-radius: 3px;
+    cursor: pointer
+  }
+
+  .video-controls .controls {
+    padding: 3px
+  }
+
+  .video-play-wrap .bg-image {
+    background-image: url(../images/hero-mobile.jpg) !important
+  }
+
+  .video-play-wrap .bg-image#covid-hero{
+    background-image: url(../images/programme-bg-MAD,Make-A-Difference-Team,Programmes-at-MAD,Academic-Support-Programme.jpg) !important;
+  }
+
+  .children_section {
+    background-image: url(../images/children_bg_mobile.jpg) !important
+  }
+
+  .slider .swiper-container .swiper-slide .inner p {
+    max-width: 70%
+  }
+
+  .slider .swiper-container .swiper-button-prev {
+    right: 160px
+  }
+
+  .slider .swiper-container .swiper-button-line {
+    right: 110px
+  }
+
+  .slider .swiper-container .swiper-button-next {
+    right: 60px
+  }
+
+  .video-title .text-wrapper h2 {
+    text-align: center;
+    width: 100% !important;
+    font-size: 25px
+  }
+
+  .video-title .text-wrapper h2 span {
+    font-size: 32px
+  }
+
+  .video-title .text-wrapper p {
+    text-align: center;
+    width: 100% !important;
+    font-size: 13px !important;
+    margin-top: 50px;
+    padding: 0 10%
+  }
+
+  .video-title .text-wrapper p span {
+    font-size: 13px !important
+  }
+
+  .header {
+    padding: 0 15px
+  }
+
+  .header .language li {
+    margin-left: 20px
+  }
+
+  .wrapper {
+    padding: 0 30px
+  }
+
+  .slider .swiper-container .swiper-slide .inner {
+    padding: 0 30px
+  }
+
+  .about-text p {
+    font-size: 16px;
+    line-height: 24px
+  }
+
+  .about-list {
+    margin: 0 -10px;
+    padding: 60px 0
+  }
+
+  .solutions-list {
+    text-align: left;
+    margin: 0
+  }
+
+  .content-box {
+    padding: 0 10px
+  }
+
+  .content-box h3 {
+    font-size: 17px
+  }
+
+  .solutions-section ul li {
+    font-size: 18px;
+    line-height: 27px
+  }
+
+  .financials-section {
+    padding: 20px 0 70px
+  }
+
+  .financials-col,
+  .financials-col.pull-right {
+    width: 100%;
+    margin: 50px auto 15px;
+    float: none
+  }
+
+  .financials-col {
+    width: 100%;
+    margin: 50px 0 0
+  }
+
+  .financials-col.pull-right {
+    width: 400px;
+    height: auto
+  }
+
+  .annual-report {
+    clear: both;
+    position: relative
+  }
+
+  .team-detail {
+    width: 100%;
+    float: none;
+    margin-bottom: 50px
+  }
+
+  .slider-right-team.slick-slider {
+    padding-bottom: 0;
+    margin-bottom: 40px
+  }
+
+  .slider-right-team {
+    margin-left: -10px
+  }
+
+  .slick-arrow {
+    bottom: -50px
+  }
+
+  .social-icon ul li {
+    margin: 0 10px
+  }
+
+  .footer-contact-form input[type=submit] {
+    padding: 16px 15px;
+    font-size: 14px
+  }
+
+  .filp-wrap-last-video {
+    position: fixed;
+    z-index: 2;
+    transform: scale(.7) translate(-70%, -50%);
+    bottom: 70px;
+    display: none;
+    top: 64%
+  }
+
+  .btn-group .landscape-on {
+    margin-top: 0 !important
+  }
+
+  .after-video .btn-group {
+    -ms-flex-direction: column;
+    flex-direction: column
+  }
+
+  .swiper-slide {
+    height: auto !important
+  }
+
+  .video-current-time,
+  .video-end-time {
+    min-width: 10%
+  }
+
+  .caption,
+  .mute-unmute,
+  .play-pause {
+    min-width: 5%
+  }
+
+  .seek-bar {
+    width: 60%
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:992px) {
+  .stepper-item {
+    max-width: 25%
+  }
+
+  .stepper-title {
+    font-size: 28px
+  }
+
+  .stepper-content {
+    min-height: 220px
+  }
+}
+
+@media only screen and (max-width:960px) {
+  .col-md-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 100%;
+    max-width: 100%
+  }
+
+  .row.example-centered {
+    margin: 0
+  }
+
+  .color-white {
+    color: #fff
+  }
+
+  .the-campaign-cncp-financial .spend-list {
+    min-height: auto
+  }
+
+  .the-campaign-cncp-box-content .financials-col {
+    width: 100%;
+    margin: 27px 0 0
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs {
+    width: 35%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 371px
+  }
+
+  .fixed-amount-box {
+    margin: 15px 17.5px 15px 0
+  }
+
+  .first-last-box {
+    width: 208px
+  }
+
+  .first-last-box input[type=text] {
+    width: 100%
+  }
+
+  .why-we-do-it .hero-content {
+    width: 70%
+  }
+
+  .why-we-do-it.hero-section {
+    padding: 50px 0 0 0
+  }
+
+  .testimoniol_content {
+    padding: 0
+  }
+
+  .we_made_section h1 {
+    margin-top: 25px
+  }
+
+  .we_made_section .paragraph {
+    width: 69%
+  }
+
+  .nav-tabs {
+    width: 50%
+  }
+
+  .tab_sub_box img,
+  .tab_sub_box_content {
+    width: 220px
+  }
+
+  .testimoniol .container {
+    width: 640px
+  }
+
+  .testimoniol_content {
+    width: 580px;
+    margin: 60px 0 0 0
+  }
+
+  .testimoniol_content h1 {
+    margin-bottom: 10px
+  }
+
+  .sub_box {
+    width: 310px
+  }
+
+  .sub_box_left {
+    margin-right: 20px
+  }
+
+  .testimoniol_box {
+    margin-bottom: 40px
+  }
+
+  .footer-logo {
+    width: 50% !important
+  }
+
+  .left {
+    width: 100%;
+    text-align: left !important
+  }
+
+  .right {
+    width: 100%;
+    text-align: left !important
+  }
+
+  .indian-international .center {
+    margin: 0 auto
+  }
+}
+
+@media only screen and (max-width:840px) {
+  .the-campaign-cncp-box-content p {
+    font-size: 13px
+  }
+
+  .the-campaign-cncp-financial .spend-list .item {
+    width: 25%
+  }
+
+  .the-campaign-cncp-financial .spend-list .item p {
+    min-height: 35px
+  }
+
+  .timeline__content-right {
+    right: calc(-95% - 56px)
+  }
+
+  .timeline__content-desc p {
+    font-size: 12px
+  }
+
+  .testimoniol_box .sub_box {
+    float: left;
+    width: 370px
+  }
+
+  .card.card-title-footer-overlapped .card-body {
+    padding: 2.5rem 2.25rem
+  }
+}
+
+@media only screen and (max-width:767px),
+only screen and (max-device-width:767px) {
+  .header {
+    padding: 15px
+  }
+
+  .header .language {
+    display: none
+  }
+
+  .social-bar {
+    display: none
+  }
+
+  .slider .swiper-container .swiper-slide {
+    justify-content: flex-end
+  }
+
+  .slider .swiper-container .swiper-slide .inner {
+    padding: 0 15px;
+    margin-bottom: 120px
+  }
+
+  .slider .swiper-container .swiper-slide .inner h2 {
+    max-width: 100%;
+    font-size: 20px
+  }
+
+  .slider .swiper-container .swiper-slide .inner p {
+    max-width: 100%;
+    font-size: 14px
+  }
+
+  .slider .swiper-container .swiper-button-prev {
+    right: 120px
+  }
+
+  .slider .swiper-container .swiper-button-line {
+    right: 70px
+  }
+
+  .slider .swiper-container .swiper-button-next {
+    right: 20px
+  }
+
+  .slider .swiper-container .swiper-pagination-fraction {
+    left: 30px
+  }
+
+  .scroll-down {
+    display: none
+  }
+
+  .header .hamburger {
+    display: block
+  }
+
+  .slider .swiper-container .swiper-slide .inner h2.customTag {
+    font-size: 26px;
+    line-height: 34px
+  }
+
+  .wrapper {
+    padding: 0 30px
+  }
+
+  section .wrapper {
+    padding: 30px 15px
+  }
+
+  .stories.wrapper {
+    padding-top: 100px
+  }
+
+  section h2 {
+    font-size: 26px
+  }
+
+  .solutions-section {
+    background: rgba(255, 255, 255, .2) url(../images/solutions-bg2.jpg) no-repeat center
+  }
+
+  .donation-section {
+    background: rgba(255, 255, 255, .8) url(../images/donation-bg2.jpg) no-repeat center
+  }
+
+  .about-section {
+    background: rgba(255, 255, 255, .2) url(../images/about-bg2.jpg)
+  }
+
+  .about-section,
+  .donation-section,
+  .solutions-section {
+    background-size: contain;
+    background-position: bottom;
+    padding-bottom: 300px;
+    background-repeat: no-repeat
+  }
+
+  .about-text {
+    padding: 30px 0
+  }
+
+  .about-text p {
+    font-size: 13px
+  }
+
+  .solutions-list {
+    margin: 0 -10px
+  }
+
+  .content-box {
+    width: 100%;
+    padding: 0 10px 50px
+  }
+
+  .about-list {
+    padding: 0
+  }
+
+  .financials-col {
+    margin: 30px 0 0
+  }
+
+  .footer {
+    padding: 150px 0 0
+  }
+
+  .footer-logo {
+    max-width: 100px;
+    margin: 0 auto
+  }
+
+  .dxc_logo {
+    max-width: 300px;
+    margin: 0 auto
+  }
+
+  .footer-part {
+    width: 100%;
+    padding: 0 0 20px;
+    border: none
+  }
+
+  .footer-middel-part {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: auto;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    top: 20px
+  }
+
+  .social-icon ul {
+    margin: 20px 0 0
+  }
+
+  .middel-devider {
+    display: none
+  }
+
+  .footer-contact-form h2 {
+    margin: 20px 0 30px
+  }
+
+  .footer-contact-form input[type=submit],
+  .footer-contact-form input[type=text],
+  .footer-contact-form textarea {
+    width: 100%;
+    margin: 0 0 20px
+  }
+
+  .content-box {
+    margin: 20px 0
+  }
+
+  .about-text p,
+  .solutions-section .cause {
+    width: auto
+  }
+
+  .about-text,
+  .about-text p,
+  .financials-col,
+  .footer-part,
+  .solutions-list,
+  .solutions-section .cause,
+  .solutions-section h2,
+  .team-detail {
+    text-align: center
+  }
+
+  .btn-theme.box-btn {
+    border-left: 0 !important
+  }
+
+  .donation-content {
+    padding: 0
+  }
+
+  .slider-right-team .slick-slide {
+    height: 300px
+  }
+}
+
+@media only screen and (max-width:768px) {
+  .the-campaign-cncp-box-content h1 {
+    font-size: 22px;
+    line-height: 26px
+  }
+
+  .the-campaign-cncp-box-content h3 {
+    font-size: 13px
+  }
+
+  .the-campaign-cncp-box-content h3 {
+    min-height: 20px
+  }
+
+  .the-campaign-cncp-box-content p {
+    min-height: 115px
+  }
+
+  .the-campaign-cncp-financial .spend-list .item p {
+    min-height: 63px
+  }
+
+  .the-team .the-team-content .the-team-box h1 {
+    font-size: 70px
+  }
+
+  .the-team .the-team-content .the-team-box {
+    padding: 50px 0 0 0
+  }
+
+  .the-team .the-team-box p {
+    margin: 45px 0 30px 0
+  }
+
+  .testimoniol_box .sub_box {
+    width: 334px
+  }
+
+  .tab_sub_box {
+    margin-bottom: 10px
+  }
+
+  .testimoniol_content {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    padding-top: 100px
+  }
+
+  .testimoniol_box .sub_box {
+    width: 100%;
+    margin-bottom: 50px
+  }
+
+  .testimoniol_box {
+    width: 100%;
+    padding-bottom: 0;
+    margin-bottom: 0
+  }
+
+  .btn.btn-theme.regulatory_landscape_sub_heading_text {
+    float: left
+  }
+
+  .page-cncp .slider {
+    margin-top: 60px
+  }
+
+  .btn {
+    font-size: 14px
+  }
+
+  .btn-theme {
+    height: 32px
+  }
+
+  .home-impact-section {
+    background: #000 url(../images/mobile/beinvolved-MAD,Make-A-Difference,How-We-Do-It,Solution-at-MAD,Transition-Models-MAD-mobile.jpg) no-repeat center;
+    background-size: cover;
+  }
+
+
+  .home-impact-section#c {
+    background: #000 url(../images/highlight-bg-Home-MAD-Make-A-Difference,Top-NGO-in-India,Charity.jpg) no-repeat center;
+    background-size: cover;
+  }
+
+  .home-achivement-section {
+    background: #000 url(../images/mobile/archivement-Home-MAD-Make-A-Difference,Top-NGO-in-India,Charity-mobile.jpg) no-repeat center
+  }
+
+  .campaign-vision {
+    background: #000 url(../images/mobile/campaigns-vision-mobile.jpg) no-repeat center
+  }
+
+  .design-innovation {
+    background: #000 url(../images/mobile/campaigns-design-and-innovation-mobile.jpg) no-repeat center
+  }
+
+  .children_section {
+    background: #000 url(../images/mobile/children_bg_mobile.jpg) no-repeat center;
+    background-size: cover
+  }
+
+  .about-cncp {
+    background: #000 url(../images/mobile/CNCP-Page-Pioneering-Research-mobile.jpg) no-repeat center;
+    background-size: cover
+  }
+
+  .cncp-stories {
+    background: #000 url(../images/mobile/CNCP-Children-of-India-stories-mobile.jpg) no-repeat center;
+    background-size: cover
+  }
+
+  .do-more {
+    background: #000 url(../images/mobile/Do-More-Hero-Section-mobile.jpg) no-repeat center
+  }
+
+  .equitable-outcomes {
+    background: #000 url(../images/mobile/outcome-banner-MAD,Make-A-Difference,How-We-Do-It,Solution-at-MAD,Transition-Models-MAD-mobile.jpg) no-repeat center
+  }
+
+  #close,
+  #help-info {
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    z-index: 10;
+    padding: 10px;
+    display: none
+  }
+
+  #close:hover,
+  #help-info:hover {
+    background: rgba(0, 0, 0, .6)
+  }
+
+  .video-play-button {
+    left: 52%
+  }
+}
+
+@media only screen and (max-width:767px) {
+  .timeline:before {
+    left: 40px
+  }
+
+  .timeline-item {
+    align-self: baseline !important;
+    width: 100%;
+    padding: 0 30px 150px 80px
+  }
+
+  .timeline-item:before {
+    left: 10px !important;
+    padding: 0 !important;
+    top: 50px;
+    text-align: center !important;
+    width: 60px;
+    border: none !important
+  }
+
+  .timeline-item:last-child {
+    padding-bottom: 40px
+  }
+
+  .section {
+    padding: 60px 0
+  }
+
+  .inner-page {
+    margin-top: 93px
+  }
+
+  .card.card-title-footer-overlapped .card-header h3 {
+    font-size: 1.1rem
+  }
+
+  .btn-yellow {
+    font-size: 16px
+  }
+
+  .card.card-title-footer-overlapped .card-footer .btn-yellow {
+    min-width: 200px
+  }
+
+  .stepper {
+    display: block
+  }
+
+  .stepper-item {
+    max-width: 100%;
+    margin-bottom: 30px
+  }
+
+  .stepper .stepper-item .stepper-content:after,
+  .stepper .stepper-item .stepper-title:after {
+    border: 0
+  }
+
+  .roles-at-mad-section h3 {
+    font-size: 1.25rem
+  }
+
+  .roles-at-mad-section h4 {
+    font-size: 1.125rem
+  }
+
+  .roles-at-mad-section .wrapper {
+    padding-bottom: 0
+  }
+}
+
+@media only screen and (max-width:640px) {
+  .the-campaign-cncp-box {
+    float: none;
+    width: 100%;
+    min-height: auto !important
+  }
+
+  .the-campaign-cncp-box-content {
+    padding: 40px 0;
+    margin: 0
+  }
+
+  .programme .the-campaign-cncp-box .text-content,
+  .the-campaign-cncp-box .text-content {
+    min-height: auto
+  }
+
+  .the-campaign-cncp-box-content p {
+    min-height: auto;
+    margin-bottom: 20px
+  }
+
+  .the-team .the-team-box p {
+    font-size: 12px
+  }
+
+  .the-team .the-team-content .the-team-box h1 {
+    font-size: 50px
+  }
+
+  .the-team .the-team-content {
+    text-align: center;
+    padding: 0
+  }
+
+  #Individual {
+    background: url(../images/individual-responsive.jpg) no-repeat center;
+    background-size: cover;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 105px
+  }
+
+  .Individual-section .edsupport-text {
+    padding: 80px 0 80px 0;
+    text-align: left
+  }
+
+  .Individual-section .edsupport-text p {
+    text-align: center
+  }
+
+  .Individual-section h2 {
+    font-size: 26px;
+    text-align: center
+  }
+
+  .Individual-section ul.nav.nav-tabs.manager_tab {
+    margin: 0 auto;
+    width: 72%
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs {
+    width: 50%
+  }
+
+  .form-group.rupees_amount {
+    margin: 0 auto;
+    width: 87%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 373px
+  }
+
+  .first-last-box {
+    width: 209px
+  }
+
+  .why-we-do-it .hero-content {
+    width: 100%;
+    text-align: center
+  }
+
+  .timeline__content-right {
+    right: calc(-5% - 50px)
+  }
+
+  .timeline-item--active .timeline__content-right {
+    margin: -100px 0 20px 0
+  }
+
+  .timeline__content {
+    margin-left: 0;
+    width: 45%
+  }
+
+  .timeline__content-desc {
+    font-size: 12px;
+    line-height: 20px
+  }
+
+  .timeline__content-right {
+    right: calc(3% - 10px)
+  }
+
+  .timeline__content-right {
+    width: 45%;
+    font-size: 12px
+  }
+
+  .testimoniol_content {
+    width: 100%;
+    text-align: center
+  }
+
+  .testimoniol_box {
+    width: 100%;
+    padding-bottom: 0
+  }
+
+  .testimoniol_box .sub_box {
+    width: 100%;
+    float: none;
+    margin-bottom: 50px
+  }
+
+  .tab_sub_box_content p {
+    font-size: 9px
+  }
+
+  .tab_sub_box img,
+  .tab_sub_box_content {
+    width: 195px
+  }
+
+  .card-content .inner-content p {
+    font-size: 13px;
+    line-height: 15px;
+    margin-bottom: 0
+  }
+
+  .testimoniol_content {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto
+  }
+
+  .testimoniol_box {
+    width: 90%;
+    padding-bottom: 0;
+    margin: 0 auto
+  }
+
+  .join-page .hero-corporate.hero-section.why-we-do-it {
+    background-image: url(../images/donation.jpg) !important
+  }
+
+  .footer-logo {
+    width: 75% !important
+  }
+
+  .video-play-button {
+    left: 53%
+  }
+
+  .donate-container,
+  .donate-iframe {
+    height: 1200px
+  }
+
+  .header .hamburger {
+    margin-top: 10px
+  }
+
+  .values_and_culture h2 {
+    font-size: 45px
+  }
+
+  .values_and_culture .values_img {
+    width: 100%
+  }
+
+  .values_and_culture p {
+    margin-bottom: 15px !important;
+    width: 100%
+  }
+}
+
+@media only screen and (max-width:540px) {
+  .home-about-section .india-map {
+    margin-left: 0
+  }
+
+  .Individual-section .edsupport-text p {
+    margin-bottom: 10px;
+    font-size: 13px
+  }
+
+  .Individual-section ul.nav.nav-tabs.manager_tab li a {
+    padding: 8px 10px 0 5px;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 0;
+    height: 33px
+  }
+
+  .Individual-section ul.nav.nav-tabs.manager_tab {
+    margin: 0 auto;
+    width: 60%
+  }
+
+  section.indian-international {
+    padding: 80px 0 10px
+  }
+
+  .timeline__content {
+    margin-left: 0;
+    width: 100%
+  }
+
+  .timeline-item--active .timeline__content-right {
+    margin: 100px 0 20px 0
+  }
+
+  .timeline__content-right {
+    width: 86%;
+    font-size: 12px
+  }
+
+  .tab_sub_box_content h3 {
+    margin: 10px 10px 0 10px;
+    font-size: 12px;
+    line-height: 12px
+  }
+
+  .tab_sub_box img,
+  .tab_sub_box_content {
+    width: 165px
+  }
+
+  .leadership_section .title-block p {
+    width: 80%
+  }
+
+  .card-content .inner-content p {
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 0
+  }
+
+  section#Profiles {
+    margin-top: 0
+  }
+
+  section#Profiles {
+    padding-bottom: 0
+  }
+
+  .leadership_section .title-block h2 {
+    padding-top: 80px
+  }
+
+  .nav-tabs {
+    width: 68%
+  }
+
+  .selectbox {
+    right: 30px;
+    top: -42px
+  }
+
+  .campaign-page-slider {
+    height: auto;
+    padding-top: 60px
+  }
+
+  .campaign-page-slider .swiper-container {
+    position: relative
+  }
+
+  div#exTab2 {
+    margin-top: 0
+  }
+
+  .roles-at-mad-section .mb-5 {
+    margin-bottom: 30px !important;
+    text-align: center
+  }
+
+  .the-campaign-cncp-box-content h1 {
+    font-size: 15px;
+    line-height: 35px
+  }
+
+  .donate-container,
+  .donate-iframe {
+    height: 1115px
+  }
+
+  .values_and_culture h2 {
+    font-size: 35px;
+    margin-bottom: 10px
+  }
+
+  .values_and_culture .values_img {
+    width: 100%;
+    margin: 0;
+    text-align: center
+  }
+
+  .values_and_culture img {
+    margin-bottom: 30px
+  }
+}
+
+@media only screen and (max-width:479px),
+only screen and (max-device-width:479px) {
+
+  .financials-section h2,
+  section h2 {
+    font-size: 20px;
+    line-height: 30px
+  }
+
+  section h2.fix {
+    line-height: 35px
+  }
+
+  .solutions-section ul li {
+    font-size: 14px
+  }
+
+  .solutions-list {
+    padding: 30px 0 0;
+    margin: 0
+  }
+
+  .about-list {
+    margin: 0
+  }
+
+  .content-box {
+    padding: 0 0 50px
+  }
+
+  .financials-section h3 {
+    font-size: 16px
+  }
+
+  .financials-section h5 {
+    font-size: 16px;
+    line-height: 18px
+  }
+
+  .spend-list .item {
+    width: 100%;
+    margin: 0
+  }
+
+  .financials-col {
+    text-align: center
+  }
+
+  .spend-list .item .cercle {
+    display: inline-block
+  }
+
+  .financials-col>p {
+    font-size: 13px
+  }
+
+  .financials-col>p strong {
+    font-size: 15px
+  }
+
+  .solutions-text {
+    padding-top: 0
+  }
+
+  .content-box {
+    margin: 0
+  }
+
+  .donate-btn a {
+    margin: 10px 8px
+  }
+
+  .financials-col.pull-right {
+    width: 280px
+  }
+
+  .annual-content h4 {
+    font-size: 16px;
+    line-height: 32px
+  }
+
+  .team-img-box {
+    padding-left: 10px
+  }
+
+  .slider-right-team .team-img-box,
+  .slider-right-team .team-img-box img {
+    height: auto
+  }
+
+  .campaign-page-slider .cta-right {
+    display: block
+  }
+
+  .campaign-page-slider .cta-right .btn-theme {
+    height: auto
+  }
+
+  .campaign-page-slider .cta-right .btn-group {
+    margin-top: 5px
+  }
+
+  .mad-vision h2 {
+    font-size: 30px;
+    text-align: center
+  }
+
+  .age-transition-wrap img,
+  .meta-model-wrap img {
+    transform: scale(1.3);
+    margin-top: 26px
+  }
+
+  .work-trust-img {
+    margin-top: 50px
+  }
+
+  .hit-counter h2 {
+    margin-top: 5px
+  }
+
+  .hit-counter p {
+    margin-bottom: 0
+  }
+}
+
+@media only screen and (max-width:480px) {
+  #impact .map {
+    width: 100%;
+    height: 500px;
+    background-size: cover
+  }
+
+  .counts h2 span.number {
+    width: 160px;
+    text-align: center
+  }
+
+  .counts h2 span {
+    font-size: 35px;
+    line-height: 50px;
+    float: left
+  }
+
+  .counts h2 span.text {
+    font-size: 15px;
+    line-height: 20px
+  }
+
+  section h2 {
+    margin-bottom: 25px
+  }
+
+  .counts-inline {
+    margin-top: 0
+  }
+
+  .counts-inline p span.number {
+    font-size: 30px
+  }
+
+  .home-about-section p {
+    font-size: 12.01px;
+    margin-bottom: 20px
+  }
+
+  .counts-inline p {
+    border-right: 2px solid #fff;
+    float: left;
+    padding-right: 10px;
+    margin-right: 10px;
+    line-height: 40px;
+    font-weight: 400
+  }
+
+  .the-team .the-team-content .the-team-box {
+    width: 100%
+  }
+
+  .Individual-section ul.nav.nav-tabs.manager_tab {
+    margin: 0 auto;
+    width: 68%
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs li a {
+    font-size: 12px
+  }
+
+  .form-group.rupees_amount {
+    margin: 0 auto;
+    width: 100%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 380px
+  }
+
+  .first-last-box {
+    width: 213px
+  }
+
+  section.hero-section.why-we-do-it .hero-content h1 {
+    font-size: 20px
+  }
+
+  .timeline__content-desc {
+    font-size: 12px;
+    line-height: 16px
+  }
+
+  .we_made_mad h1 {
+    padding-top: 150px
+  }
+
+  .we_made_mad h1 {
+    font-size: 35px
+  }
+
+  .we_made_mad {
+    height: 320px
+  }
+
+  section#Profiles {
+    margin-top: 50px
+  }
+
+  .title-block p {
+    width: 75%
+  }
+
+  .selectbox {
+    right: auto;
+    position: relative;
+    text-align: center;
+    margin-bottom: 30px
+  }
+
+  .tab_sub_box {
+    width: 50%
+  }
+
+  .testimoniol_content h1 {
+    font-size: 20px
+  }
+
+  .testimoniol_content {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: auto;
+    margin: 0;
+    text-align: center
+  }
+
+  .testimoniol_box .sub_box h3 {
+    padding: 20px 0 10px 0;
+    font-size: 14px
+  }
+
+  .testimoniol_box .sub_box p {
+    padding: 0
+  }
+
+  .sub_box {
+    width: 225px
+  }
+
+  .sub_box_left {
+    margin-right: 10px;
+    margin-left: 10px
+  }
+
+  .selectbox {
+    top: 0
+  }
+
+  .card-content .inner-content p {
+    font-size: 10px;
+    line-height: 11px;
+    margin-bottom: 0
+  }
+
+  .card-content .inner-content h3 {
+    font-size: 11px;
+    line-height: 15px;
+    margin-bottom: 0
+  }
+
+  .team-img-box.slick-slide .desc {
+    width: 95%
+  }
+
+  .team-img-box.slick-slide .team-inner .slider-caption {
+    width: 100%
+  }
+
+  .slider-new-right-team .slick-arrow {
+    bottom: -27px
+  }
+
+  .about-cncp ol li,
+  .about-cncp ul li,
+  .care-collective p,
+  section p {
+    font-size: 14px
+  }
+
+  .footer-copyright-text ul li {
+    display: block;
+    width: 100%
+  }
+
+  .footer-copyright-text ul li a {
+    border: none;
+    line-height: 48px
+  }
+
+  section#Profiles {
+    margin-top: 0
+  }
+
+  .slider .swiper-container .swiper-slide .inner {
+    margin-bottom: 60px
+  }
+
+  .video-play-button {
+    left: 53.2%
+  }
+
+  .donate-container,
+  .donate-iframe {
+    height: 1185px
+  }
+}
+
+@media only screen and (max-width:380px) {
+  .counts h2 span.number {
+    width: 100px
+  }
+
+  .counts h2 span {
+    font-size: 25px;
+    line-height: 30px;
+    line-height: 35px
+  }
+
+  .counts h2 span.text {
+    font-size: 10px;
+    line-height: 15px
+  }
+
+  .the-campaign-cncp-financial .the-campaign-cncp-box-content {
+    padding-right: 0
+  }
+
+  .the-campaign-cncp-financial .spend-list .item {
+    width: 100%;
+    margin: 0
+  }
+
+  .why-we-do-it-page h1 {
+    font-size: 1.5rem
+  }
+
+  .why-we-do-it-page h2 {
+    font-size: 14px !important
+  }
+
+  .why-we-do-it-page p {
+    font-size: 14px !important
+  }
+
+  .solution_for_change_section p {
+    width: 100%
+  }
+
+  .solution_for_change_section .regulatory_landscape_sub_heading_text {
+    float: none;
+    font-weight: 700;
+    margin-top: 20px
+  }
+
+  .Individual-section .edsupport-text p {
+    margin-bottom: 10px;
+    font-size: 13px;
+    line-height: 18px
+  }
+
+  .Individual-section ul.nav.nav-tabs.manager_tab {
+    margin: 0 auto;
+    width: 87%
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs {
+    width: 63%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 280px
+  }
+
+  .fixed-amount-box {
+    margin: 15px 13.5px 15px 0
+  }
+
+  .first-last-box {
+    width: 163px
+  }
+
+  section.hero-section.why-we-do-it .hero-content p {
+    font-size: 13px
+  }
+
+  .timeline__content-desc {
+    font-size: 11px;
+    line-height: 15px
+  }
+
+  .timeline__content-right {
+    right: calc(16% - 10px)
+  }
+
+  .timeline__content-right {
+    width: 68%;
+    font-size: 10px
+  }
+
+  .timeline__content-desc p {
+    font-size: 12px
+  }
+
+  section.hero-section.why-we-do-it .hero-content h1 {
+    font-size: 17px
+  }
+
+  .testimoniol_box .sub_box p {
+    padding: 0;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px
+  }
+
+  .testimoniol_content p {
+    font-size: 13px;
+    line-height: 17px;
+    margin-bottom: 30px
+  }
+
+  .testimoniol_content h1 {
+    font-size: 25px
+  }
+
+  .testimoniol_box .sub_box {
+    width: 100%;
+    float: none;
+    margin: 0;
+    margin-bottom: 50px
+  }
+
+  .testimoniol_box {
+    padding-bottom: 50px
+  }
+
+  .profile-gallery-item:hover .inner-content {
+    left: 10px;
+    bottom: 15px;
+    padding-left: 6px
+  }
+
+  .inner-content {
+    top: 40%;
+    width: 100%
+  }
+
+  .footer-logo {
+    width: 100% !important
+  }
+
+  .nav-tabs.manager_tab {
+    width: 70%
+  }
+
+  button#init-trigger {
+    margin-bottom: 25px
+  }
+
+  #resume-trigger .nextBtn,
+  .inner .video-button .nextBtn {
+    width: 70px
+  }
+
+  .pull-right.dxc-home-logo {
+    float: none
+  }
+
+  .dxc-home-logo img#dxc-logo {
+    padding: 8px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 0;
+    background: #fff
+  }
+
+  .slider .swiper-container .swiper-slide .inner {
+    margin-bottom: 40px
+  }
+
+  .slider .swiper-container .swiper-slide .inner h2.customTag {
+    font-size: 22px;
+    margin-top: 15px
+  }
+
+  .video-play-button {
+    left: 54.2%
+  }
+
+  .donate-container,
+  .donate-iframe {
+    height: 1245px
+  }
+}
+
+@media only screen and (max-width:360px) {
+  .Individual-section ul.nav.nav-tabs.manager_tab {
+    margin: 0 auto;
+    width: 92%
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs {
+    width: 67%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 260px
+  }
+
+  .fixed-amount-box {
+    margin: 15px 13px 15px 0
+  }
+
+  .first-last-box {
+    width: 153px
+  }
+
+  .nav-tabs {
+    width: 50%
+  }
+
+  .selectbox {
+    right: 2.5%;
+    top: 5.5%
+  }
+
+  .tab_sub_box {
+    width: 100%
+  }
+
+  .sub_box {
+    width: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px
+  }
+
+  .sub_box_btn a {
+    background-color: #32242b
+  }
+
+  .tab_sub_box img,
+  .tab_sub_box_content {
+    width: 190px
+  }
+
+  .testimoniol_content {
+    margin: 0
+  }
+
+  .achivement_timeline-content {
+    padding-bottom: 20px
+  }
+
+  .dxc_section .partner-section {
+    margin-top: 50px
+  }
+
+  .d-flex:last-child .card-title-footer-overlapped {
+    margin-bottom: 20px
+  }
+
+  .the-campaign-cncp-box-botton-left .the-campaign-cncp-box-content {
+    padding-top: 0
+  }
+
+  .slider.career-page .swiper-container .swiper-slide .inner {
+    margin-bottom: 20px
+  }
+
+  .donate-container,
+  .donate-iframe {
+    height: 1425px
+  }
+}
+
+@media only screen and (max-width:320px) {
+  .Individual-section ul.nav.nav-tabs.manager_tab {
+    margin: 0 auto;
+    width: 100%
+  }
+
+  .Individual-section ul.nav.nav-tabs.manager_tab li a {
+    font-size: 11px
+  }
+
+  section.indian-international .tab-content.indian-international-box .nav-tabs {
+    width: 78%
+  }
+
+  .amount.rupees_amount_box input {
+    width: 220px
+  }
+
+  .fixed-amount-box {
+    margin: 15px 11.5px 15px 0
+  }
+
+  .first-last-box {
+    width: 133px
+  }
+
+  .timeline__content-desc {
+    font-size: 10px;
+    line-height: 13px
+  }
+
+  .nav-tabs {
+    width: 60%
+  }
+
+  .selectbox {
+    right: 0;
+    top: 0
+  }
+
+  .profile-gallery-item:hover .inner-content {
+    left: 5px;
+    min-height: 20px;
+    padding-left: 4px
+  }
+
+  .inner-content {
+    top: 30%;
+    width: 100%
+  }
+
+  .video-play-button {
+    left: 54.7%
+  }
+
+  .donate-container,
+  .donate-iframe {
+    height: 1490px
+  }
+}
